@@ -1,0 +1,1279 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winnemucca",
+        "full_name": "Winnemucca, NV 89445, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7356849,
+          40.9729584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reno",
+        "full_name": "Reno, NV, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8138027,
+          39.5296329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicago",
+        "full_name": "Chicago, IL, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fargo",
+        "full_name": "Fargo, ND, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7898034,
+          46.8771863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minnesota",
+        "full_name": "Minnesota, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6858998,
+          46.729553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffalo",
+        "full_name": "Buffalo, NY, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8783689,
+          42.8864468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto",
+        "full_name": "Toronto, ON, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3831843,
+          43.653226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winslow",
+        "full_name": "Winslow, AZ 86047, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6973571,
+          35.0241873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarasota",
+        "full_name": "Sarasota, FL, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5306527,
+          27.3364347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wichita",
+        "full_name": "Wichita, KS, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3361111,
+          37.6888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulsa",
+        "full_name": "Tulsa, OK, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.992775,
+          36.1539816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ottawa",
+        "full_name": "Ottawa, ON, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6971931,
+          45.4215296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oklahoma",
+        "full_name": "Oklahoma, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.092877,
+          35.0077519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tampa",
+        "full_name": "Tampa, FL, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4571776,
+          27.950575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panama",
+        "full_name": "Panama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.782127,
+          8.537981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mattawa",
+        "full_name": "Mattawa, WA 99349, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9028234,
+          46.73791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paloma",
+        "full_name": "La Paloma, TX 78586, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6669444,
+          26.0486111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangor",
+        "full_name": "Bangor, ME, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7778138,
+          44.8011821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore",
+        "full_name": "Baltimore, MD, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6121893,
+          39.2903848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvador",
+        "full_name": "El Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.89653,
+          13.794185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amarillo",
+        "full_name": "Amarillo, TX, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8312969,
+          35.2219971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tocapillo",
+        "full_name": "Tocopilla, Antofagasta Region, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.193006,
+          -22.085798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baranquilla",
+        "full_name": "Baranquilla, sanˈtjaɰo ð̞e ˈkali, Valle del Cauca, Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5011286,
+          3.4764285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perdilla",
+        "full_name": "Perdita Ln, Lincoln, CA 95648, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2777843,
+          38.858774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boston",
+        "full_name": "Boston, MA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0597732,
+          42.3584308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charleston",
+        "full_name": "Charleston, SC, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9309216,
+          32.7765656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dayton",
+        "full_name": "Dayton, OH, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1916069,
+          39.7589478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louisiana",
+        "full_name": "Louisiana, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1450245,
+          31.2448234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington",
+        "full_name": "Washington, DC, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363658,
+          38.8951118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Houston",
+        "full_name": "Houston, TX, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3693896,
+          29.7601927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingston",
+        "full_name": "Kingston, NY, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9973608,
+          41.9270367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Texarkana",
+        "full_name": "Texarkana, TX, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0476882,
+          33.425125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monterey",
+        "full_name": "Monterey, CA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8946761,
+          36.6002378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faraday",
+        "full_name": "Faraday, Irvine, CA 92618, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7208025,
+          33.6400601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Fe",
+        "full_name": "Santa Fe, NM, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.937799,
+          35.6869752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tallapoosa",
+        "full_name": "Tallapoosa, GA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2880077,
+          33.7445499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glen Rock",
+        "full_name": "Glen Rock, NJ, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1329207,
+          40.9628758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Rock",
+        "full_name": "Black Rock, AR, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0973473,
+          36.108403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Rock",
+        "full_name": "Little Rock, AR, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2895948,
+          34.7464809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oskaloosa",
+        "full_name": "Oskaloosa, IA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6444444,
+          41.2938889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tennessee",
+        "full_name": "Tennessee, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5804473,
+          35.5174913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tennesse Chicopee",
+        "full_name": "Chicopee Trail, Weaverville, NC 28787, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.523852,
+          35.673895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spirit Lake",
+        "full_name": "Spirit Lake, Gifford Pinchot National Forest, Washington 98616, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1337072,
+          46.2743029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Lake",
+        "full_name": "Grand Lake, CO, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8230671,
+          40.2522073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devils Lake",
+        "full_name": "Devils Lake, ND 58301, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8651202,
+          48.112779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crater Lake",
+        "full_name": "Crater Lake, Crater Lake National Park, Oregon 97604, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1092454,
+          42.9446093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louisville",
+        "full_name": "Louisville, KY, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7584557,
+          38.2526647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nashville",
+        "full_name": "Nashville, TN, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7833333,
+          36.1666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knoxville",
+        "full_name": "Knoxville, TN, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9207392,
+          35.9606384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ombabika",
+        "full_name": "Unorganized Thunder Bay District"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902194,
+          50.2333364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schefferville",
+        "full_name": "Schefferville, QC, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.825422,
+          54.820572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacksonville",
+        "full_name": "Jacksonville, FL, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.655651,
+          30.3321838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterville",
+        "full_name": "Waterville, ME, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6317121,
+          44.5520105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Costa Rica",
+        "full_name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.753428,
+          9.748917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pittsfield",
+        "full_name": "Pittsfield, MA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2453824,
+          42.4500845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springfield",
+        "full_name": "Springfield, MO, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2922989,
+          37.2089572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakersfield",
+        "full_name": "Bakersfield, CA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0187125,
+          35.3732921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shreveport",
+        "full_name": "Shreveport, LA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7501789,
+          32.5251516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hackensack",
+        "full_name": "Hackensack, NJ, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0434736,
+          40.8859325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadillac, MI",
+        "full_name": "Cadillac, MI 49601, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4011619,
+          44.2519526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fond du Lac",
+        "full_name": "Fond du Lac, WI, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4470508,
+          43.7730448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Davenport",
+        "full_name": "Davenport, IA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5776367,
+          41.5236437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idaho",
+        "full_name": "Idaho, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7420408,
+          44.0682019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jellico",
+        "full_name": "Jellico, TN, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1268741,
+          36.5878591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argentina",
+        "full_name": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.616672,
+          -38.416097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diamantina",
+        "full_name": "Diamantina - Minas Gerais, Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6110132,
+          -18.2380733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasadena",
+        "full_name": "Pasadena, CA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1445155,
+          34.1477849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catalina",
+        "full_name": "Catalina, AZ, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9212146,
+          32.5000731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pittsburgh",
+        "full_name": "Pittsburgh, PA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9958864,
+          40.4406248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkersburg",
+        "full_name": "Parkersburg, WV, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5615135,
+          39.2667418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gravelbourg",
+        "full_name": "Gravelbourg, SK S0H, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5573172,
+          49.8756758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colorado",
+        "full_name": "Colorado, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7820674,
+          39.5500507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ellensburg",
+        "full_name": "Ellensburg, WA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5478474,
+          46.9965144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rexburg",
+        "full_name": "Rexburg, ID, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7852778,
+          43.8230556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vicksburg",
+        "full_name": "Vicksburg, MS, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.877882,
+          32.3526456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eldorado",
+        "full_name": "Eldorado, TX 76936, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6009299,
+          30.8601745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larimore",
+        "full_name": "Larimore, ND 58251, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6267539,
+          47.9066569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Admore",
+        "full_name": "Admore Dr, Kent, OH 44240, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3783622,
+          41.1590362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haverstraw",
+        "full_name": "Haverstraw, NY, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9645837,
+          41.1975947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatanika",
+        "full_name": "Chatanika, AK 99712, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.465393,
+          65.111221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chaska",
+        "full_name": "Chaska, MN, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6018389,
+          44.7893446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nebraska",
+        "full_name": "Nebraska, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9018131,
+          41.4925374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alaska",
+        "full_name": "Alaska, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.4930619,
+          63.588753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opelika",
+        "full_name": "Opelika, AL, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3782795,
+          32.6454116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baraboo",
+        "full_name": "Baraboo, WI 53913, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7442906,
+          43.4710944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterloo",
+        "full_name": "Waterloo, IA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3429631,
+          42.4927641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalamazoo",
+        "full_name": "Kalamazoo, MI, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5872286,
+          42.2917069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kansas City",
+        "full_name": "Kansas City, MO, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5785667,
+          39.0997265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sioux City",
+        "full_name": "Sioux City, IA, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4003069,
+          42.4999942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cedar City",
+        "full_name": "Cedar City, UT, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0618931,
+          37.6774769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dodge City",
+        "full_name": "Dodge City, KS 67801, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0170787,
+          37.7527982
+        ]
+      }
+    }
+  ]
+}
