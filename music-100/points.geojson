@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Winnemucca",
-        "full_name": "Winnemucca, NV 89445, USA"
+        "full_name": "Winnemucca, NV 89445, USA",
+        "idx": "0"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "name": "Reno",
-        "full_name": "Reno, NV, USA"
+        "full_name": "Reno, NV, USA",
+        "idx": "1"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chicago",
-        "full_name": "Chicago, IL, USA"
+        "full_name": "Chicago, IL, USA",
+        "idx": "2"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fargo",
-        "full_name": "Fargo, ND, USA"
+        "full_name": "Fargo, ND, USA",
+        "idx": "3"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "name": "Minnesota",
-        "full_name": "Minnesota, USA"
+        "full_name": "Minnesota, USA",
+        "idx": "4"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "name": "Buffalo",
-        "full_name": "Buffalo, NY, USA"
+        "full_name": "Buffalo, NY, USA",
+        "idx": "5"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +95,8 @@
       "type": "Feature",
       "properties": {
         "name": "Toronto",
-        "full_name": "Toronto, ON, Canada"
+        "full_name": "Toronto, ON, Canada",
+        "idx": "6"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +110,8 @@
       "type": "Feature",
       "properties": {
         "name": "Winslow",
-        "full_name": "Winslow, AZ 86047, USA"
+        "full_name": "Winslow, AZ 86047, USA",
+        "idx": "7"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +125,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sarasota",
-        "full_name": "Sarasota, FL, USA"
+        "full_name": "Sarasota, FL, USA",
+        "idx": "8"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +140,8 @@
       "type": "Feature",
       "properties": {
         "name": "Wichita",
-        "full_name": "Wichita, KS, USA"
+        "full_name": "Wichita, KS, USA",
+        "idx": "9"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +155,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tulsa",
-        "full_name": "Tulsa, OK, USA"
+        "full_name": "Tulsa, OK, USA",
+        "idx": "10"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +170,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ottawa",
-        "full_name": "Ottawa, ON, Canada"
+        "full_name": "Ottawa, ON, Canada",
+        "idx": "11"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +185,8 @@
       "type": "Feature",
       "properties": {
         "name": "Oklahoma",
-        "full_name": "Oklahoma, USA"
+        "full_name": "Oklahoma, USA",
+        "idx": "12"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tampa",
-        "full_name": "Tampa, FL, USA"
+        "full_name": "Tampa, FL, USA",
+        "idx": "13"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +215,8 @@
       "type": "Feature",
       "properties": {
         "name": "Panama",
-        "full_name": "Panama"
+        "full_name": "Panama",
+        "idx": "14"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +230,8 @@
       "type": "Feature",
       "properties": {
         "name": "Mattawa",
-        "full_name": "Mattawa, WA 99349, USA"
+        "full_name": "Mattawa, WA 99349, USA",
+        "idx": "15"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +245,8 @@
       "type": "Feature",
       "properties": {
         "name": "La Paloma",
-        "full_name": "La Paloma, TX 78586, USA"
+        "full_name": "La Paloma, TX 78586, USA",
+        "idx": "16"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +260,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bangor",
-        "full_name": "Bangor, ME, USA"
+        "full_name": "Bangor, ME, USA",
+        "idx": "17"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "name": "Baltimore",
-        "full_name": "Baltimore, MD, USA"
+        "full_name": "Baltimore, MD, USA",
+        "idx": "18"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +290,8 @@
       "type": "Feature",
       "properties": {
         "name": "Salvador",
-        "full_name": "El Salvador"
+        "full_name": "El Salvador",
+        "idx": "19"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +305,8 @@
       "type": "Feature",
       "properties": {
         "name": "Amarillo",
-        "full_name": "Amarillo, TX, USA"
+        "full_name": "Amarillo, TX, USA",
+        "idx": "20"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +320,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tocapillo",
-        "full_name": "Tocopilla, Antofagasta Region, Chile"
+        "full_name": "Tocopilla, Antofagasta Region, Chile",
+        "idx": "21"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +335,8 @@
       "type": "Feature",
       "properties": {
         "name": "Baranquilla",
-        "full_name": "Baranquilla, sanˈtjaɰo ð̞e ˈkali, Valle del Cauca, Colombia"
+        "full_name": "Baranquilla, sanˈtjaɰo ð̞e ˈkali, Valle del Cauca, Colombia",
+        "idx": "22"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +350,8 @@
       "type": "Feature",
       "properties": {
         "name": "Perdilla",
-        "full_name": "Perdita Ln, Lincoln, CA 95648, USA"
+        "full_name": "Perdita Ln, Lincoln, CA 95648, USA",
+        "idx": "23"
       },
       "geometry": {
         "type": "Point",
@@ -341,7 +365,8 @@
       "type": "Feature",
       "properties": {
         "name": "Boston",
-        "full_name": "Boston, MA, USA"
+        "full_name": "Boston, MA, USA",
+        "idx": "24"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +380,8 @@
       "type": "Feature",
       "properties": {
         "name": "Charleston",
-        "full_name": "Charleston, SC, USA"
+        "full_name": "Charleston, SC, USA",
+        "idx": "25"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +395,8 @@
       "type": "Feature",
       "properties": {
         "name": "Dayton",
-        "full_name": "Dayton, OH, USA"
+        "full_name": "Dayton, OH, USA",
+        "idx": "26"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +410,8 @@
       "type": "Feature",
       "properties": {
         "name": "Louisiana",
-        "full_name": "Louisiana, USA"
+        "full_name": "Louisiana, USA",
+        "idx": "27"
       },
       "geometry": {
         "type": "Point",
@@ -397,7 +425,8 @@
       "type": "Feature",
       "properties": {
         "name": "Washington",
-        "full_name": "Washington, DC, USA"
+        "full_name": "Washington, DC, USA",
+        "idx": "28"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +440,8 @@
       "type": "Feature",
       "properties": {
         "name": "Houston",
-        "full_name": "Houston, TX, USA"
+        "full_name": "Houston, TX, USA",
+        "idx": "29"
       },
       "geometry": {
         "type": "Point",
@@ -425,7 +455,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kingston",
-        "full_name": "Kingston, NY, USA"
+        "full_name": "Kingston, NY, USA",
+        "idx": "30"
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +470,8 @@
       "type": "Feature",
       "properties": {
         "name": "Texarkana",
-        "full_name": "Texarkana, TX, USA"
+        "full_name": "Texarkana, TX, USA",
+        "idx": "31"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +485,8 @@
       "type": "Feature",
       "properties": {
         "name": "Monterey",
-        "full_name": "Monterey, CA, USA"
+        "full_name": "Monterey, CA, USA",
+        "idx": "32"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +500,8 @@
       "type": "Feature",
       "properties": {
         "name": "Faraday",
-        "full_name": "Faraday, Irvine, CA 92618, USA"
+        "full_name": "Faraday, Irvine, CA 92618, USA",
+        "idx": "33"
       },
       "geometry": {
         "type": "Point",
@@ -481,7 +515,8 @@
       "type": "Feature",
       "properties": {
         "name": "Santa Fe",
-        "full_name": "Santa Fe, NM, USA"
+        "full_name": "Santa Fe, NM, USA",
+        "idx": "34"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +530,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tallapoosa",
-        "full_name": "Tallapoosa, GA, USA"
+        "full_name": "Tallapoosa, GA, USA",
+        "idx": "35"
       },
       "geometry": {
         "type": "Point",
@@ -509,7 +545,8 @@
       "type": "Feature",
       "properties": {
         "name": "Glen Rock",
-        "full_name": "Glen Rock, NJ, USA"
+        "full_name": "Glen Rock, NJ, USA",
+        "idx": "36"
       },
       "geometry": {
         "type": "Point",
@@ -523,7 +560,8 @@
       "type": "Feature",
       "properties": {
         "name": "Black Rock",
-        "full_name": "Black Rock, AR, USA"
+        "full_name": "Black Rock, AR, USA",
+        "idx": "37"
       },
       "geometry": {
         "type": "Point",
@@ -537,7 +575,8 @@
       "type": "Feature",
       "properties": {
         "name": "Little Rock",
-        "full_name": "Little Rock, AR, USA"
+        "full_name": "Little Rock, AR, USA",
+        "idx": "38"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +590,8 @@
       "type": "Feature",
       "properties": {
         "name": "Oskaloosa",
-        "full_name": "Oskaloosa, IA, USA"
+        "full_name": "Oskaloosa, IA, USA",
+        "idx": "39"
       },
       "geometry": {
         "type": "Point",
@@ -565,7 +605,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tennessee",
-        "full_name": "Tennessee, USA"
+        "full_name": "Tennessee, USA",
+        "idx": "40"
       },
       "geometry": {
         "type": "Point",
@@ -579,7 +620,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tennesse Chicopee",
-        "full_name": "Chicopee Trail, Weaverville, NC 28787, USA"
+        "full_name": "Chicopee Trail, Weaverville, NC 28787, USA",
+        "idx": "41"
       },
       "geometry": {
         "type": "Point",
@@ -593,7 +635,8 @@
       "type": "Feature",
       "properties": {
         "name": "Spirit Lake",
-        "full_name": "Spirit Lake, Gifford Pinchot National Forest, Washington 98616, USA"
+        "full_name": "Spirit Lake, Gifford Pinchot National Forest, Washington 98616, USA",
+        "idx": "42"
       },
       "geometry": {
         "type": "Point",
@@ -607,7 +650,8 @@
       "type": "Feature",
       "properties": {
         "name": "Grand Lake",
-        "full_name": "Grand Lake, CO, USA"
+        "full_name": "Grand Lake, CO, USA",
+        "idx": "43"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +665,8 @@
       "type": "Feature",
       "properties": {
         "name": "Devils Lake",
-        "full_name": "Devils Lake, ND 58301, USA"
+        "full_name": "Devils Lake, ND 58301, USA",
+        "idx": "44"
       },
       "geometry": {
         "type": "Point",
@@ -635,7 +680,8 @@
       "type": "Feature",
       "properties": {
         "name": "Crater Lake",
-        "full_name": "Crater Lake, Crater Lake National Park, Oregon 97604, USA"
+        "full_name": "Crater Lake, Crater Lake National Park, Oregon 97604, USA",
+        "idx": "45"
       },
       "geometry": {
         "type": "Point",
@@ -649,7 +695,8 @@
       "type": "Feature",
       "properties": {
         "name": "Louisville",
-        "full_name": "Louisville, KY, USA"
+        "full_name": "Louisville, KY, USA",
+        "idx": "46"
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +710,8 @@
       "type": "Feature",
       "properties": {
         "name": "Nashville",
-        "full_name": "Nashville, TN, USA"
+        "full_name": "Nashville, TN, USA",
+        "idx": "47"
       },
       "geometry": {
         "type": "Point",
@@ -677,7 +725,8 @@
       "type": "Feature",
       "properties": {
         "name": "Knoxville",
-        "full_name": "Knoxville, TN, USA"
+        "full_name": "Knoxville, TN, USA",
+        "idx": "48"
       },
       "geometry": {
         "type": "Point",
@@ -691,7 +740,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ombabika",
-        "full_name": "Unorganized Thunder Bay District"
+        "full_name": "Unorganized Thunder Bay District",
+        "idx": "49"
       },
       "geometry": {
         "type": "Point",
@@ -705,7 +755,8 @@
       "type": "Feature",
       "properties": {
         "name": "Schefferville",
-        "full_name": "Schefferville, QC, Canada"
+        "full_name": "Schefferville, QC, Canada",
+        "idx": "50"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +770,8 @@
       "type": "Feature",
       "properties": {
         "name": "Jacksonville",
-        "full_name": "Jacksonville, FL, USA"
+        "full_name": "Jacksonville, FL, USA",
+        "idx": "51"
       },
       "geometry": {
         "type": "Point",
@@ -733,7 +785,8 @@
       "type": "Feature",
       "properties": {
         "name": "Waterville",
-        "full_name": "Waterville, ME, USA"
+        "full_name": "Waterville, ME, USA",
+        "idx": "52"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +800,8 @@
       "type": "Feature",
       "properties": {
         "name": "Costa Rica",
-        "full_name": "Costa Rica"
+        "full_name": "Costa Rica",
+        "idx": "53"
       },
       "geometry": {
         "type": "Point",
@@ -761,7 +815,8 @@
       "type": "Feature",
       "properties": {
         "name": "Pittsfield",
-        "full_name": "Pittsfield, MA, USA"
+        "full_name": "Pittsfield, MA, USA",
+        "idx": "54"
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +830,8 @@
       "type": "Feature",
       "properties": {
         "name": "Springfield",
-        "full_name": "Springfield, MO, USA"
+        "full_name": "Springfield, MO, USA",
+        "idx": "55"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +845,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bakersfield",
-        "full_name": "Bakersfield, CA, USA"
+        "full_name": "Bakersfield, CA, USA",
+        "idx": "56"
       },
       "geometry": {
         "type": "Point",
@@ -803,7 +860,8 @@
       "type": "Feature",
       "properties": {
         "name": "Shreveport",
-        "full_name": "Shreveport, LA, USA"
+        "full_name": "Shreveport, LA, USA",
+        "idx": "57"
       },
       "geometry": {
         "type": "Point",
@@ -817,7 +875,8 @@
       "type": "Feature",
       "properties": {
         "name": "Hackensack",
-        "full_name": "Hackensack, NJ, USA"
+        "full_name": "Hackensack, NJ, USA",
+        "idx": "58"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +890,8 @@
       "type": "Feature",
       "properties": {
         "name": "Cadillac, MI",
-        "full_name": "Cadillac, MI 49601, USA"
+        "full_name": "Cadillac, MI 49601, USA",
+        "idx": "59"
       },
       "geometry": {
         "type": "Point",
@@ -845,7 +905,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fond du Lac",
-        "full_name": "Fond du Lac, WI, USA"
+        "full_name": "Fond du Lac, WI, USA",
+        "idx": "60"
       },
       "geometry": {
         "type": "Point",
@@ -859,7 +920,8 @@
       "type": "Feature",
       "properties": {
         "name": "Davenport",
-        "full_name": "Davenport, IA, USA"
+        "full_name": "Davenport, IA, USA",
+        "idx": "61"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +935,8 @@
       "type": "Feature",
       "properties": {
         "name": "Idaho",
-        "full_name": "Idaho, USA"
+        "full_name": "Idaho, USA",
+        "idx": "62"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +950,8 @@
       "type": "Feature",
       "properties": {
         "name": "Jellico",
-        "full_name": "Jellico, TN, USA"
+        "full_name": "Jellico, TN, USA",
+        "idx": "63"
       },
       "geometry": {
         "type": "Point",
@@ -901,7 +965,8 @@
       "type": "Feature",
       "properties": {
         "name": "Argentina",
-        "full_name": "Argentina"
+        "full_name": "Argentina",
+        "idx": "64"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +980,8 @@
       "type": "Feature",
       "properties": {
         "name": "Diamantina",
-        "full_name": "Diamantina - Minas Gerais, Brazil"
+        "full_name": "Diamantina - Minas Gerais, Brazil",
+        "idx": "65"
       },
       "geometry": {
         "type": "Point",
@@ -929,7 +995,8 @@
       "type": "Feature",
       "properties": {
         "name": "Pasadena",
-        "full_name": "Pasadena, CA, USA"
+        "full_name": "Pasadena, CA, USA",
+        "idx": "66"
       },
       "geometry": {
         "type": "Point",
@@ -943,7 +1010,8 @@
       "type": "Feature",
       "properties": {
         "name": "Catalina",
-        "full_name": "Catalina, AZ, USA"
+        "full_name": "Catalina, AZ, USA",
+        "idx": "67"
       },
       "geometry": {
         "type": "Point",
@@ -957,7 +1025,8 @@
       "type": "Feature",
       "properties": {
         "name": "Pittsburgh",
-        "full_name": "Pittsburgh, PA, USA"
+        "full_name": "Pittsburgh, PA, USA",
+        "idx": "68"
       },
       "geometry": {
         "type": "Point",
@@ -971,7 +1040,8 @@
       "type": "Feature",
       "properties": {
         "name": "Parkersburg",
-        "full_name": "Parkersburg, WV, USA"
+        "full_name": "Parkersburg, WV, USA",
+        "idx": "69"
       },
       "geometry": {
         "type": "Point",
@@ -985,7 +1055,8 @@
       "type": "Feature",
       "properties": {
         "name": "Gravelbourg",
-        "full_name": "Gravelbourg, SK S0H, Canada"
+        "full_name": "Gravelbourg, SK S0H, Canada",
+        "idx": "70"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1070,8 @@
       "type": "Feature",
       "properties": {
         "name": "Colorado",
-        "full_name": "Colorado, USA"
+        "full_name": "Colorado, USA",
+        "idx": "71"
       },
       "geometry": {
         "type": "Point",
@@ -1013,7 +1085,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ellensburg",
-        "full_name": "Ellensburg, WA, USA"
+        "full_name": "Ellensburg, WA, USA",
+        "idx": "72"
       },
       "geometry": {
         "type": "Point",
@@ -1027,7 +1100,8 @@
       "type": "Feature",
       "properties": {
         "name": "Rexburg",
-        "full_name": "Rexburg, ID, USA"
+        "full_name": "Rexburg, ID, USA",
+        "idx": "73"
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1115,8 @@
       "type": "Feature",
       "properties": {
         "name": "Vicksburg",
-        "full_name": "Vicksburg, MS, USA"
+        "full_name": "Vicksburg, MS, USA",
+        "idx": "74"
       },
       "geometry": {
         "type": "Point",
@@ -1055,7 +1130,8 @@
       "type": "Feature",
       "properties": {
         "name": "Eldorado",
-        "full_name": "Eldorado, TX 76936, USA"
+        "full_name": "Eldorado, TX 76936, USA",
+        "idx": "75"
       },
       "geometry": {
         "type": "Point",
@@ -1069,7 +1145,8 @@
       "type": "Feature",
       "properties": {
         "name": "Larimore",
-        "full_name": "Larimore, ND 58251, USA"
+        "full_name": "Larimore, ND 58251, USA",
+        "idx": "76"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1160,8 @@
       "type": "Feature",
       "properties": {
         "name": "Admore",
-        "full_name": "Admore Dr, Kent, OH 44240, USA"
+        "full_name": "Admore Dr, Kent, OH 44240, USA",
+        "idx": "77"
       },
       "geometry": {
         "type": "Point",
@@ -1097,7 +1175,8 @@
       "type": "Feature",
       "properties": {
         "name": "Haverstraw",
-        "full_name": "Haverstraw, NY, USA"
+        "full_name": "Haverstraw, NY, USA",
+        "idx": "78"
       },
       "geometry": {
         "type": "Point",
@@ -1111,7 +1190,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chatanika",
-        "full_name": "Chatanika, AK 99712, USA"
+        "full_name": "Chatanika, AK 99712, USA",
+        "idx": "79"
       },
       "geometry": {
         "type": "Point",
@@ -1125,7 +1205,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chaska",
-        "full_name": "Chaska, MN, USA"
+        "full_name": "Chaska, MN, USA",
+        "idx": "80"
       },
       "geometry": {
         "type": "Point",
@@ -1139,7 +1220,8 @@
       "type": "Feature",
       "properties": {
         "name": "Nebraska",
-        "full_name": "Nebraska, USA"
+        "full_name": "Nebraska, USA",
+        "idx": "81"
       },
       "geometry": {
         "type": "Point",
@@ -1153,7 +1235,8 @@
       "type": "Feature",
       "properties": {
         "name": "Alaska",
-        "full_name": "Alaska, USA"
+        "full_name": "Alaska, USA",
+        "idx": "82"
       },
       "geometry": {
         "type": "Point",
@@ -1167,7 +1250,8 @@
       "type": "Feature",
       "properties": {
         "name": "Opelika",
-        "full_name": "Opelika, AL, USA"
+        "full_name": "Opelika, AL, USA",
+        "idx": "83"
       },
       "geometry": {
         "type": "Point",
@@ -1181,7 +1265,8 @@
       "type": "Feature",
       "properties": {
         "name": "Baraboo",
-        "full_name": "Baraboo, WI 53913, USA"
+        "full_name": "Baraboo, WI 53913, USA",
+        "idx": "84"
       },
       "geometry": {
         "type": "Point",
@@ -1195,7 +1280,8 @@
       "type": "Feature",
       "properties": {
         "name": "Waterloo",
-        "full_name": "Waterloo, IA, USA"
+        "full_name": "Waterloo, IA, USA",
+        "idx": "85"
       },
       "geometry": {
         "type": "Point",
@@ -1209,7 +1295,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kalamazoo",
-        "full_name": "Kalamazoo, MI, USA"
+        "full_name": "Kalamazoo, MI, USA",
+        "idx": "86"
       },
       "geometry": {
         "type": "Point",
@@ -1223,7 +1310,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kansas City",
-        "full_name": "Kansas City, MO, USA"
+        "full_name": "Kansas City, MO, USA",
+        "idx": "87"
       },
       "geometry": {
         "type": "Point",
@@ -1237,7 +1325,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sioux City",
-        "full_name": "Sioux City, IA, USA"
+        "full_name": "Sioux City, IA, USA",
+        "idx": "88"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1340,8 @@
       "type": "Feature",
       "properties": {
         "name": "Cedar City",
-        "full_name": "Cedar City, UT, USA"
+        "full_name": "Cedar City, UT, USA",
+        "idx": "89"
       },
       "geometry": {
         "type": "Point",
@@ -1265,7 +1355,8 @@
       "type": "Feature",
       "properties": {
         "name": "Dodge City",
-        "full_name": "Dodge City, KS 67801, USA"
+        "full_name": "Dodge City, KS 67801, USA",
+        "idx": "90"
       },
       "geometry": {
         "type": "Point",
